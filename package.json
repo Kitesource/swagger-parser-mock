@@ -1,6 +1,6 @@
 {
   "name": "@kite0219/swagger-parser-mock2",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "A Swagger document parser that borrows from Swagger-parser-Mock",
   "main": "lib/index.js",
   "license": "MIT",
