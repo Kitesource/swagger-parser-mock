@@ -1,6 +1,6 @@
 {
   "name": "@kite0219/swagger-parser-mock2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Swagger document parser that borrows from Swagger-parser-Mock",
   "main": "lib/index.js",
   "license": "MIT",
@@ -21,7 +21,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easy-mock/swagger-parser-mock.git"
+    "url": "git+https://github.com/easy-mock/swagger-parser-mock.git",
+    "url_self": "git+https://github.com/Kitesource/swagger-parser-mock2"
   },
   "dependencies": {
     "memoizee": "^0.4.14",
